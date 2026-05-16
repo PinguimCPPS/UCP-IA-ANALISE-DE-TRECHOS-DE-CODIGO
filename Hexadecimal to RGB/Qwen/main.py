@@ -1,4 +1,4 @@
-//O SonarQube não encontrou problema algum com este codigo.
+# O SonarQube não encontrou problema algum com este codigo.
 
 def hex_to_rgb(hex_str):
     hex_str = hex_str.lstrip('#')
