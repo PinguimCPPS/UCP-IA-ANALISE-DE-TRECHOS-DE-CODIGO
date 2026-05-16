@@ -1,4 +1,4 @@
-//O SonarQube não encontrou problema algum com este código.
+# O SonarQube não encontrou problema algum com este código.
 
 def hex_to_rgb(hex_color):
     """Convert a hex color string (e.g., '#ff00aa' or 'ff0') to an (R, G, B) tuple."""
