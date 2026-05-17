@@ -1,4 +1,5 @@
 // O SonarQube sugeriu:
+// Mova este arquivo para um pacote com nome específico.
 // falou que O arquivo quary1.java não faz parte do projeto; apenas erros de sintaxe são relatados.
 // falou para Mover os designadores de matriz [] para o tipo. em relação ao int RGB.
 // E disse para trocar o "sistem.out" para um "logger".
