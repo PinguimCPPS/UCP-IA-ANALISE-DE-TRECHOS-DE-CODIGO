@@ -1,5 +1,5 @@
 // O SonarQube respondeu :
-// Ele faou ara Adicionar um construtor privado para ocultar o construtor público implícito.
+// Ele falou ara Adicionar um construtor privado para ocultar o construtor público implícito.
 
 public class HexToRGB { public static int[] hexToRgb(String hex) { if (!hex.startsWith("#")) { hex = "#" + hex; } hex = hex.toUpperCase(); String cleanHex = hex.substring(1);
 
