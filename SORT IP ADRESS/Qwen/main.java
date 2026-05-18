@@ -1,4 +1,5 @@
-//SonarQube disse para remover o import Collections, troca o print por um logger, transformar a classe anonima Comparator em um lambda, e ter certeza de que é seguro usar ips estaticos 
+//SonarQube disse para remover o import Collections, troca o print por um logger, transformar a classe anonima Comparator em um lambda, 
+//e ter certeza de que é seguro usar ips estaticos 
 import java.net.InetAddress;
 import java.util.ArrayList;
 import java.util.Collections;
